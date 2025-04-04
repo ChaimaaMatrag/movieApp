@@ -1,5 +1,5 @@
 [submodule "movie_app"]
 	path = movie_app
-	url = https://github.com/ChaimaaMatrag/movieApp
+	url = https://github.com/ChaimaaMatrag/movieApp.git
 [submodule "show-app-backend"]
 	url = https://github.com/ChaimaaMatrag/show-app-backend.git
